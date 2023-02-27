@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a42a930e-8b0e-4894-a3d2-eced7c017e2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FinalProject_4sprint/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_practise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parameterized/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MGqJydMS9TN0CnglH3vuAXgOk6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.AutoTest.checkActivity">
+    <configuration name="AutoTest2.orderPageTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="FinalProject4sprint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutoTest2" />
+      <option name="METHOD_NAME" value="orderPageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="browser" value="firefox" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest2.pressOnBtn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject4sprint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutoTest2" />
+      <option name="METHOD_NAME" value="pressOnBtn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest2.pressOnBtnOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject4sprint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutoTest2" />
+      <option name="METHOD_NAME" value="pressOnBtnOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.checkActivit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject4sprint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutoTest" />
+      <option name="METHOD_NAME" value="checkActivit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoTest.checkActivity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject4sprint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutoTest" />
+      <option name="METHOD_NAME" value="checkActivity" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="browser" value="firefox" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AutoTest.checkActivit" />
+      <item itemvalue="JUnit.AutoTest2.pressOnBtn" />
+      <item itemvalue="JUnit.AutoTest.checkActivity" />
+      <item itemvalue="JUnit.AutoTest2.pressOnBtnOrder" />
+      <item itemvalue="JUnit.AutoTest2.orderPageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutoTest.checkActivity" />
+        <item itemvalue="JUnit.AutoTest2.orderPageTest" />
+        <item itemvalue="JUnit.AutoTest.checkActivit" />
+        <item itemvalue="JUnit.AutoTest2.pressOnBtn" />
+        <item itemvalue="JUnit.AutoTest2.pressOnBtnOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a42a930e-8b0e-4894-a3d2-eced7c017e2c" name="Changes" comment="" />
+      <created>1677404198674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677404198674</updated>
+    </task>
+    <servers />
+  </component>
+</project>
