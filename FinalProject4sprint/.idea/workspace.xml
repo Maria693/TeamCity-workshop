@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a42a930e-8b0e-4894-a3d2-eced7c017e2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../FinalProject_4sprint/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Git_practise/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parameterized/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_4 " beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_4 " afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +105,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AutoTest.checkActivit" />
-      <item itemvalue="JUnit.AutoTest2.pressOnBtn" />
-      <item itemvalue="JUnit.AutoTest.checkActivity" />
-      <item itemvalue="JUnit.AutoTest2.pressOnBtnOrder" />
       <item itemvalue="JUnit.AutoTest2.orderPageTest" />
+      <item itemvalue="JUnit.AutoTest2.pressOnBtnOrder" />
+      <item itemvalue="JUnit.AutoTest2.pressOnBtn" />
+      <item itemvalue="JUnit.AutoTest.checkActivit" />
+      <item itemvalue="JUnit.AutoTest.checkActivity" />
     </list>
     <recent_temporary>
       <list>
